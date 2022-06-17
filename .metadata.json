@@ -1,0 +1,14 @@
+[
+  {
+    "package": "scrappy",
+    "oncran": true
+  },
+  {
+    "package": "splash",
+    "oncran": true
+  },
+  {
+    "package": "trainR",
+    "oncran": true
+  }
+]
